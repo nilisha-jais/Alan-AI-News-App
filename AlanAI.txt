@@ -3,7 +3,7 @@
 intent('What does this app do?', 'What can I do here?', 
       reply('This is a news application.You can search for latest news,news from various sources , news by term and news by categories.'));
 
-const API_KEY = '992f265f6af94f37bcdf0133c577a090';
+const API_KEY = 'API-KEY';
 let savedArticles = [];
 
 // News by Source 
