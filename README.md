@@ -9,4 +9,7 @@ Voice enabled news application<br>
 </ul>
 
 ## Setup
-run ```npm i && npm start``` to start development server
+Run ```npm install``` 
+
+## Development
+To start development server run  ```npm start```
